@@ -5,6 +5,6 @@ Quick and dirty python script that will take IP ranges from a file and split the
 
 
 
-Usage: ./splitter.py -f <file> -s <number of scanners>
+Usage: ./splitter.py -f <<file>> -s <<number of scanners>>
 
 * Its not multi-threaded, so expect longer completion time with relatively large lists. 
